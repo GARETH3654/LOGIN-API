@@ -1,0 +1,8 @@
+body{
+  background-image:url("img/stars.jpg");
+  padding:250px 350px;
+  color: white;
+}
+button{
+  border-radius: 50px;
+}
