@@ -40,6 +40,9 @@ function login(params) {
       setTimeout(function(){
         window.location.replace('INDEX_PANEL.HTML');
       },2000)
+      .loader:after{
+        -webkit-animation: load1 1s infinite ease-in-out
+      }
 
     }
     else {
